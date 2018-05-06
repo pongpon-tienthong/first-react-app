@@ -1,6 +1,6 @@
 ## My first simple React App
 
-####The instructions are:
+###The instructions are:
 
  * Create TWO new components: UserInput and UserOutput
  * UserInput should hold an input element, UserOutput two paragraphs
